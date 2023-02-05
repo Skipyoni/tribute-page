@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(216,216,216);
+    width: 65em;
+  }
+  h1, p, caption{
+    text-align: center;
+  }
+  #img-div{
+    background: white;
+    padding: 8px;
+  }
+  #image{
+        max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+  }
